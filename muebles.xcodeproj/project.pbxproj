@@ -11,6 +11,7 @@
 		FA75962F2B72EE130054D153 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA75962E2B72EE130054D153 /* ContentView.swift */; };
 		FA7596312B72EE240054D153 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA7596302B72EE240054D153 /* Assets.xcassets */; };
 		FA7596342B72EE240054D153 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA7596332B72EE240054D153 /* Preview Assets.xcassets */; };
+		FA7AC3382B73038C00273CC5 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7AC3372B73038C00273CC5 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		FA75962E2B72EE130054D153 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FA7596302B72EE240054D153 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA7596332B72EE240054D153 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FA7AC3372B73038C00273CC5 /* HomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		FA75962B2B72EE130054D153 /* muebles */ = {
 			isa = PBXGroup;
 			children = (
+				FA7AC3372B73038C00273CC5 /* HomeView.swift */,
 				FA75962C2B72EE130054D153 /* mueblesApp.swift */,
 				FA75962E2B72EE130054D153 /* ContentView.swift */,
 				FA7596302B72EE240054D153 /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA7AC3382B73038C00273CC5 /* HomeView.swift in Sources */,
 				FA75962F2B72EE130054D153 /* ContentView.swift in Sources */,
 				FA75962D2B72EE130054D153 /* mueblesApp.swift in Sources */,
 			);
